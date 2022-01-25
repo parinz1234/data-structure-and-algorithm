@@ -1,0 +1,13 @@
+{
+  "name": "data-structure-and-algorithm",
+  "version": "1.0.0",
+  "repository": "https://github.com/parinz1234/data-structure-and-algorithm.git",
+  "author": "parinz1234 <parinya.ons@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
